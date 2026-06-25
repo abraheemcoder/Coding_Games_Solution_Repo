@@ -1,1 +1,1 @@
-# All My coding games solutions are here.
+# All My coding game solutions are here.
